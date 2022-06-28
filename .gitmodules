@@ -1,0 +1,9 @@
+[submodule "Frontend-Teacher"]
+	path = Frontend-Teacher
+	url = https://github.com/EliasBinder/Examify-Teacher
+[submodule "Frontend-Student"]
+	path = Frontend-Student
+	url = https://github.com/EliasBinder/Examify-Student
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/EliasBinder/Examify-Backend
